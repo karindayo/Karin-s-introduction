@@ -1,0 +1,129 @@
+header {
+    background-color: #b4e4b5;
+    height: 60px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+}
+header p {
+    font-family: "Century Gothic", sans-serif;
+    color: #5f3d2d;
+    display: block;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0px;
+}
+.back {
+    background-color: #b4e4b5;
+}
+.back2 {
+    background-color: #f3eedc;
+    padding: 0 20px 20px 50px; margin:0;
+    border-radius: 50% 50% 0 0 / 50px 45px 0 0;
+    color: #4d3910;
+    font-family: "游ゴシック Light", sans-serif;
+}
+.profile {
+    background-color: #f9f7da;
+    padding: 10px 10px 10px 10px;
+    margin: 0 80px 100px 80px;
+    border-bottom: solid 10px #e6e2d4;
+    border-right: solid 5px #e6e2d4;
+    border-radius: 50% 50% 40px 40px / 22px 22px 40px 40px;
+    overflow: hidden;
+}
+.over {
+    text-align: center;
+    color: #BBBBBB;
+    font-size: 25px;
+    padding: 40px 0 5px;
+    border-top: dashed  0.5mm #f4f0d6;
+    margin-top: 5px;
+    font-family: "Century Gothic";
+    display: block;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: normal;
+}
+
+.contents {
+    padding: 10px 10px 0 10px;
+    margin: 0px 20px;
+    background: url("/images/profile/bg.png") rgba(255,255,255,0.5);
+    background-blend-mode: lighten;
+    opacity: 0.7;
+    overflow: hidden;
+    font-size: 20px;
+}
+.content1 {
+    float: left;
+    margin: 30px 20px 30px 30px ;
+    text-align: center;
+}
+.content2 {
+    float: left;
+    padding: 30px 10px 30px 30px;
+}
+.icon {
+    border-radius: 40px;
+    width: 240px;
+    border: solid 20px #fbf8da;
+}
+.name {
+    font-size: 40px;
+    color: #6f423e;
+    border-bottom: solid 3px #f9f5d9;
+    padding: 30px;
+    font-family: "游ゴシック Light", sans-serif;
+}
+.birthday {
+    font-size: 30px;
+    color: #938666;
+    padding: 30px 0;
+}
+.birthday img {
+    width: 40px;
+}
+.item {
+    width: 35px;
+    padding-right: 10px;
+}
+.orange {
+    width: 27px;
+    padding: 0 10px 0 60px;
+}
+.items {
+    font-size: 30px;
+    padding: 10px 0;
+    margin: 20px 0;
+    font-family: 游ゴシック;
+    border-bottom: solid 2px #f9f5d9;
+}
+.word {
+    background-color: #fbf8da;
+    padding: 10px;
+    border-radius: 20px;
+    color: #938666;
+    word-wrap: break-word;
+    margin-bottom: 20px;
+}
+.atsumori {
+    text-align: center;
+}
+.atsumori img {
+    height: 250px;
+}
+.under {
+    color: #938666;
+    padding: 30px 50px 30px;
+}
+.under1 {
+    float: left;
+}
+.under2 {
+    float: right;
+    font-family: 游ゴシック;
+}
