@@ -6,8 +6,13 @@ header {
     padding-top: 20px;
 }
 header p {
-    font-family: "Century Gothic";
+    font-family: "Century Gothic", sans-serif;
     color: #5f3d2d;
+    display: block;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0px;
 }
 .back {
     background-color: #b4e4b5;
@@ -36,6 +41,12 @@ header p {
     border-top: dashed  0.5mm #f4f0d6;
     margin-top: 5px;
     font-family: "Century Gothic";
+    display: block;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: normal;
 }
 
 .contents {
